@@ -1,0 +1,12 @@
+Added Component: Designator=U?(XCVR_ESP32-S2-SOLO-U-N4R2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-S2-SOLO-U-N4R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32954128438.html?spm=a2g0o.order_list.order_list_main.44.5fd61802HfjXd0"; VariantName = "[No Variations]"
+Added Class: Name=ESP32_HID
+Added Room: Name=ESP32_HID
