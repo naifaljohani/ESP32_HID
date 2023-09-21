@@ -1,0 +1,10 @@
+Added Component: Designator=A?(SEEED_113990105)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Seeed Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "113990105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESP32_HID Member=Component A? 113990105
+Added Member To Class: ClassName=ESP32_HID Member=Component U? 3.5 Inch TFT LCD Module With Touch
+Added Member To Class: ClassName=ESP32_HID Member=Component U? ESP32-S2-SOLO-U-N4R2
