@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=U? Old Footprint=IC_DRV8833PWPR New Footprint=XCVR_ESP32-S2-SOLO-U-N4R2
+Change Component Comment : Designator=U? Old Comment=DRV8833PWPR New Comment=ESP32-S2-SOLO-U-N4R2
+Change component parameters: Designator = "U?" ("U?"); Footprint = "IC_DRV8833PWPR"; UniqueID = "\YLQPJVNB\UZOQHTLI" ("\YLQPJVNB\UZOQHTLI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP32-S2-SOLO-U-N4R2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U6(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32954128438.html?spm=a2g0o.order_list.order_list_main.44.5fd61802HfjXd0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU6_1 Pin=U6-1
+Added Net: Name=NetU6_1
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Net: Name=NetU6_2
+Added Pin To Net: NetName=NetU6_3 Pin=U6-3
+Added Pin To Net: NetName=NetU6_3 Pin=U?-39
+Added Net: Name=NetU6_3
+Added Pin To Net: NetName=NetU6_4 Pin=U6-4
+Added Pin To Net: NetName=NetU6_4 Pin=U?-38
+Added Net: Name=NetU6_4
+Added Pin To Net: NetName=NetU6_5 Pin=U6-5
+Added Net: Name=NetU6_5
+Added Pin To Net: NetName=NetU6_6 Pin=U6-6
+Added Net: Name=NetU6_6
+Added Pin To Net: NetName=NetU6_7 Pin=U6-7
+Added Net: Name=NetU6_7
+Added Pin To Net: NetName=NetU6_8 Pin=U6-8
+Added Net: Name=NetU6_8
+Added Pin To Net: NetName=NetU6_9 Pin=U6-9
+Added Net: Name=NetU6_9
+Added Pin To Net: NetName=NetU6_10 Pin=U6-10
+Added Net: Name=NetU6_10
+Added Pin To Net: NetName=NetU6_11 Pin=U6-11
+Added Net: Name=NetU6_11
+Added Pin To Net: NetName=NetU6_12 Pin=U6-12
+Added Net: Name=NetU6_12
+Added Pin To Net: NetName=NetU6_13 Pin=U6-13
+Added Net: Name=NetU6_13
+Added Pin To Net: NetName=NetU6_14 Pin=U6-14
+Added Net: Name=NetU6_14
+Added Pin To Net: NetName=NetU6_15 Pin=U6-15
+Added Net: Name=NetU6_15
+Added Pin To Net: NetName=NetU6_16 Pin=U6-16
+Added Net: Name=NetU6_16
+Added Pin To Net: NetName=NetU6_17 Pin=U6-17
+Added Net: Name=NetU6_17
+Added Pin To Net: NetName=NetU6_18 Pin=U6-18
+Added Net: Name=NetU6_18
+Change Class Name : Old Net Name=Block Diagram New Net Name=U_ESP32_S2_solo
+Added Class: Name=GLCD
+Change Room Name: Old Name=Designator New Name=U_ESP32_S2_solo
+Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('U_ESP32_S2_solo')
+Added Room: Name=GLCD

@@ -1,0 +1,36 @@
+Added Component: Designator=C?(CAP_EEEHA1V101UP)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEEHA1V101UP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(IC_DRV8833PWPR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8833PWPR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(IC_DRV8833PWPR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8833PWPR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-18
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Net: Name=NetC?_2
+Change Class Name : Old Net Name=ESP32_HID New Net Name=Block Diagram
+Added Class: Name=Designator
+Added Member To Class: ClassName=Block Diagram Member=Component U? ESP32-S2-SOLO-U-N4R2
+Added Member To Class: ClassName=Block Diagram Member=Component U? 3.5 Inch TFT LCD Module With Touch
+Added Member To Class: ClassName=Block Diagram Member=Component U? USB-TYPE-C-FEMAIL
+Added Member To Class: ClassName=Block Diagram Member=Component U? DRV8833PWPR
+Added Member To Class: ClassName=Block Diagram Member=Component U? VMA107
+Change Room Name: Old Name=ESP32_HID New Name=Designator
+Change Room Scope: Old Scope=InComponentClass('ESP32_HID') New Scope=InComponentClass('Designator')
+Added Room: Name=Block Diagram
