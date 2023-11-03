@@ -1,0 +1,10 @@
+Added Component: Designator=?j(Motor_pin)
+Added Component: Designator=?(Motor_pin)
+Added Pin To Net: NetName=Net?_1 Pin=?-1
+Added Pin To Net: NetName=Net?_1 Pin=U5-4
+Added Net: Name=Net?_1
+Added Pin To Net: NetName=Net?j_1 Pin=?j-1
+Added Pin To Net: NetName=Net?j_1 Pin=U5-2
+Added Net: Name=Net?j_1
+Added Member To Class: ClassName=U_DC Motor Control Member=Component ?j Motor
+Added Member To Class: ClassName=U_DC Motor Control Member=Component ? Motor
