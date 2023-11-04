@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=VMOT Pin=C19-1
+Removed Pin From Net: NetName=VMOT Pin=U8-1
+Removed Pin From Net: NetName=VMOT Pin=U8-3
+Added Component: Designator=D2(DO-35)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P14(HDR1X16)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U9(C5156605)
+Added Pin To Net: NetName=VCC Pin=C19-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=D+ Pin=P14-1
+Added Pin To Net: NetName=D- Pin=P14-2
+Added Pin To Net: NetName=D- Pin=P14-3
+Added Pin To Net: NetName=D+ Pin=P14-4
+Added Pin To Net: NetName=VCC Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U9-15
+Added Pin To Net: NetName=GND Pin=U9-16
+Added Pin To Net: NetName=GND Pin=U9-17
+Added Pin To Net: NetName=GND Pin=U9-18
+Added Pin To Net: NetName=GND Pin=U9-A1
+Added Pin To Net: NetName=D+ Pin=U9-A6
+Added Pin To Net: NetName=D- Pin=U9-A7
+Added Pin To Net: NetName=GND Pin=U9-A12
+Added Pin To Net: NetName=GND Pin=U9-B1
+Added Pin To Net: NetName=D+ Pin=U9-B6
+Added Pin To Net: NetName=D- Pin=U9-B7
+Added Pin To Net: NetName=GND Pin=U9-B12
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U9-A4
+Added Pin To Net: NetName=NetD2_1 Pin=U9-A9
+Added Pin To Net: NetName=NetD2_1 Pin=U9-B4
+Added Pin To Net: NetName=NetD2_1 Pin=U9-B9
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetP14_5 Pin=P14-5
+Added Pin To Net: NetName=NetP14_5 Pin=U9-A10
+Added Net: Name=NetP14_5
+Added Pin To Net: NetName=NetP14_6 Pin=P14-6
+Added Pin To Net: NetName=NetP14_6 Pin=U9-A11
+Added Net: Name=NetP14_6
+Added Pin To Net: NetName=NetP14_7 Pin=P14-7
+Added Pin To Net: NetName=NetP14_7 Pin=U9-B10
+Added Net: Name=NetP14_7
+Added Pin To Net: NetName=NetP14_8 Pin=P14-8
+Added Pin To Net: NetName=NetP14_8 Pin=U9-B11
+Added Net: Name=NetP14_8
+Added Pin To Net: NetName=NetP14_9 Pin=P14-9
+Added Pin To Net: NetName=NetP14_9 Pin=U9-A5
+Added Net: Name=NetP14_9
+Added Pin To Net: NetName=NetP14_10 Pin=P14-10
+Added Pin To Net: NetName=NetP14_10 Pin=U9-B5
+Added Net: Name=NetP14_10
+Added Pin To Net: NetName=NetP14_11 Pin=P14-11
+Added Pin To Net: NetName=NetP14_11 Pin=U9-B8
+Added Net: Name=NetP14_11
+Added Pin To Net: NetName=NetP14_12 Pin=P14-12
+Added Pin To Net: NetName=NetP14_12 Pin=U9-A8
+Added Net: Name=NetP14_12
+Added Pin To Net: NetName=NetP14_13 Pin=P14-13
+Added Pin To Net: NetName=NetP14_13 Pin=U9-B3
+Added Net: Name=NetP14_13
+Added Pin To Net: NetName=NetP14_14 Pin=P14-14
+Added Pin To Net: NetName=NetP14_14 Pin=U9-B2
+Added Net: Name=NetP14_14
+Added Pin To Net: NetName=NetP14_15 Pin=P14-15
+Added Pin To Net: NetName=NetP14_15 Pin=U9-A3
+Added Net: Name=NetP14_15
+Added Pin To Net: NetName=NetP14_16 Pin=P14-16
+Added Pin To Net: NetName=NetP14_16 Pin=U9-A2
+Added Net: Name=NetP14_16
+Added Member To Class: ClassName=U_USB Member=Component D2 Diode 1N4148
+Added Member To Class: ClassName=U_USB Member=Component P14 Header 16
+Added Member To Class: ClassName=U_USB Member=Component U9 USB-TYPE-C-FEMAIL

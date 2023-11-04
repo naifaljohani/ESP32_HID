@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VCC Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GLCD_CON1 Pin=U6-3
+Removed Pin From Net: NetName=GLCD_CON2 Pin=U6-4
+Removed Pin From Net: NetName=GLCD_CON3 Pin=U6-5
+Removed Pin From Net: NetName=GLCD_CON4 Pin=U6-6
+Removed Pin From Net: NetName=GLCD_CON5 Pin=U6-7
+Removed Pin From Net: NetName=VCC Pin=U6-8
+Removed Pin From Net: NetName=NetR3_2 Pin=U6-9
+Removed Pin From Net: NetName=GLCD_CON5 Pin=U6-10
+Removed Pin From Net: NetName=GLCD_CON7 Pin=U6-11
+Removed Pin From Net: NetName=GLCD_CON4 Pin=U6-12
+Removed Pin From Net: NetName=GLCD_CON6 Pin=U6-13
+Removed Pin From Net: NetName=GLCD_CON8 Pin=U6-14
+Removed Pin From Net: NetName=GLCD_CON5 Pin=U6-15
+Removed Pin From Net: NetName=GLCD_CON6 Pin=U6-16
+Removed Pin From Net: NetName=GLCD_CON4 Pin=U6-17
+Removed Pin From Net: NetName=GLCD_CON9 Pin=U6-18
+Added Component: Designator=U6(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32954128438.html?spm=a2g0o.order_list.order_list_main.44.5fd61802HfjXd0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GLCD_CON1 Pin=U6-3
+Added Pin To Net: NetName=GLCD_CON2 Pin=U6-4
+Added Pin To Net: NetName=GLCD_CON3 Pin=U6-5
+Added Pin To Net: NetName=GLCD_CON4 Pin=U6-6
+Added Pin To Net: NetName=GLCD_CON5 Pin=U6-7
+Added Pin To Net: NetName=VCC Pin=U6-8
+Added Pin To Net: NetName=NetR3_2 Pin=U6-9
+Added Pin To Net: NetName=GLCD_CON5 Pin=U6-10
+Added Pin To Net: NetName=GLCD_CON7 Pin=U6-11
+Added Pin To Net: NetName=GLCD_CON4 Pin=U6-12
+Added Pin To Net: NetName=GLCD_CON6 Pin=U6-13
+Added Pin To Net: NetName=GLCD_CON8 Pin=U6-14
+Added Pin To Net: NetName=GLCD_CON5 Pin=U6-15
+Added Pin To Net: NetName=GLCD_CON6 Pin=U6-16
+Added Pin To Net: NetName=GLCD_CON4 Pin=U6-17
+Added Pin To Net: NetName=GLCD_CON9 Pin=U6-18
