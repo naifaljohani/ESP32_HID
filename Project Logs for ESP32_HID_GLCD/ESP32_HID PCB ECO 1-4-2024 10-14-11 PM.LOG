@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=D_P Pin=P10-1
+Removed Pin From Net: NetName=D_N Pin=P10-2
+Removed Pin From Net: NetName=D_N Pin=P10-3
+Removed Pin From Net: NetName=D_P Pin=P10-4
+Removed Member From Class: ClassName=U_USB Member=P10

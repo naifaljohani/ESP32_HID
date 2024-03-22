@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NSLEEP Pin=P14-7
+Removed Pin From Net: NetName=IO18 Pin=P14-8
+Added Pin To Net: NetName=IO18 Pin=P14-7
+Added Pin To Net: NetName=NSLEEP Pin=P14-8

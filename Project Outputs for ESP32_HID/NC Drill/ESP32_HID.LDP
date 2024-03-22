@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\HID_esp32_s2\ESP32_HID\ESP32_HID\ESP32_HID.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32_hid-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32_hid-slotholes.txt|DrillLayers=gtl,gbl

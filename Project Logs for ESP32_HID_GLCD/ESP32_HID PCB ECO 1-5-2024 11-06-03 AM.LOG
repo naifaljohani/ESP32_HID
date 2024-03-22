@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=DCD Pin=P3-2
+Added Pin To Net: NetName=DCD Pin=U3-12
+Added Net: Name=DCD
+Added Pin To Net: NetName=RI Pin=P3-3
+Added Pin To Net: NetName=RI Pin=U3-11
+Added Net: Name=RI

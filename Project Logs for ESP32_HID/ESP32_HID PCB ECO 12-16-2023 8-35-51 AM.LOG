@@ -1,0 +1,7 @@
+Added Member To Class: ClassName=Vm Member=Wire GND
+Added Member To Class: ClassName=Vm Member=Wire NetC7_1
+Added Member To Class: ClassName=Vm Member=Wire NetC11_2
+Added Member To Class: ClassName=Vm Member=Wire NetR4_1
+Added Member To Class: ClassName=Vm Member=Wire NSLEEP
+Added Member To Class: ClassName=Vm Member=Wire VMOT
+Added Rule: Name=Schematic Width Constraint_1

@@ -1,0 +1,4 @@
+Add Pin To Net: Pin=U9-A6 Old Net=NetU9_A6 New Net=D_P
+Add Pin To Net: Pin=U9-A7 Old Net=NetU9_A7 New Net=D_N
+Add Pin To Net: Pin=U9-B6 Old Net=NetU9_B6 New Net=D_P
+Add Pin To Net: Pin=U9-B7 Old Net=NetU9_B7 New Net=D_N

@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : D:\HID_esp32_s2\ESP32_HID\ESP32_HID\ESP32_HID.PcbDoc
+Date         : 12/1/2023
+Time         : 6:55:25 PM
+Time Elapsed : 00:00:00

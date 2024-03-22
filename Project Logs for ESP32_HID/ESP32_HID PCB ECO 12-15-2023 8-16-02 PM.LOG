@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=VCC Pin=P1-2
+Removed Pin From Net: NetName=VCC Pin=P1-3
+Removed Pin From Net: NetName=3V3 Pin=P1-4
+Removed Pin From Net: NetName=3V3 Pin=P1-5
+Removed Pin From Net: NetName=3V3 Pin=P1-6
+Removed Pin From Net: NetName=3V3 Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Pin From Net: NetName=GND Pin=P1-10
+Removed Pin From Net: NetName=GND Pin=P1-11
+Removed Pin From Net: NetName=EN Pin=P1-12
+Removed Pin From Net: NetName=UART2 Pin=P1-13
+Removed Pin From Net: NetName=UART1 Pin=P1-14
+Removed Pin From Net: NetName=IO46 Pin=P1-15
+Removed Pin From Net: NetName=IO45 Pin=P1-16
+Removed Pin From Net: NetName=GLCD_CON9 Pin=P1-17
+Removed Pin From Net: NetName=GLCD_CON8 Pin=P1-18
+Removed Pin From Net: NetName=GLCD_CON7 Pin=P1-19
+Removed Pin From Net: NetName=GLCD_CON6 Pin=P1-20
+Removed Pin From Net: NetName=GLCD_CON5 Pin=P1-21
+Removed Pin From Net: NetName=GLCD_CON4 Pin=P1-22
+Removed Pin From Net: NetName=GLCD_CON3 Pin=P1-23
+Removed Pin From Net: NetName=GLCD_CON2 Pin=P1-24
+Removed Pin From Net: NetName=GLCD_CON1 Pin=P1-25
+Removed Pin From Net: NetName=3V3 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=IO33 Pin=P2-3
+Removed Pin From Net: NetName=IO21 Pin=P2-4
+Removed Pin From Net: NetName=IO20 Pin=P2-5
+Removed Pin From Net: NetName=IO19 Pin=P2-6
+Removed Pin From Net: NetName=IO18 Pin=P2-7
+Removed Pin From Net: NetName=IO17 Pin=P2-8
+Removed Pin From Net: NetName=IO16 Pin=P2-9
+Removed Pin From Net: NetName=BIN2 Pin=P2-10
+Removed Pin From Net: NetName=BIN1 Pin=P2-11
+Removed Pin From Net: NetName=AIN2 Pin=P2-12
+Removed Pin From Net: NetName=AIN1 Pin=P2-13
+Removed Pin From Net: NetName=NSLEEP Pin=P2-14
+Removed Pin From Net: NetName=NFAULT Pin=P2-15
+Removed Pin From Net: NetName=BIN2_2 Pin=P2-16
+Removed Pin From Net: NetName=BIN1_2 Pin=P2-17
+Removed Pin From Net: NetName=AIN2_2 Pin=P2-18
+Removed Pin From Net: NetName=AIN1_2 Pin=P2-19
+Removed Pin From Net: NetName=NSLEEP_2 Pin=P2-20
+Removed Pin From Net: NetName=NFAULT_2 Pin=P2-21
+Removed Pin From Net: NetName=IO3 Pin=P2-22
+Removed Pin From Net: NetName=IO2 Pin=P2-23
+Removed Pin From Net: NetName=IO1 Pin=P2-24
+Removed Pin From Net: NetName=IO0 Pin=P2-25
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X25 New Footprint=HDR1X10
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X25 New Footprint=HDR1X10
+Change Component Comment : Designator=P1 Old Comment=Header 25 New Comment=Header 10
+Change Component Comment : Designator=P2 Old Comment=Header 25 New Comment=Header 10
+Added Component: Designator=P14(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P15(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P1-2
+Added Pin To Net: NetName=3V3 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=IO46 Pin=P1-7
+Added Pin To Net: NetName=EN Pin=P1-8
+Added Pin To Net: NetName=UART2 Pin=P1-9
+Added Pin To Net: NetName=UART1 Pin=P1-10
+Added Pin To Net: NetName=IO45 Pin=P2-1
+Added Pin To Net: NetName=GLCD_CON9 Pin=P2-2
+Added Pin To Net: NetName=GLCD_CON8 Pin=P2-3
+Added Pin To Net: NetName=GLCD_CON7 Pin=P2-4
+Added Pin To Net: NetName=GLCD_CON6 Pin=P2-5
+Added Pin To Net: NetName=GLCD_CON5 Pin=P2-6
+Added Pin To Net: NetName=GLCD_CON4 Pin=P2-7
+Added Pin To Net: NetName=GLCD_CON3 Pin=P2-8
+Added Pin To Net: NetName=GLCD_CON2 Pin=P2-9
+Added Pin To Net: NetName=GLCD_CON1 Pin=P2-10
+Added Pin To Net: NetName=3V3 Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=IO33 Pin=P14-3
+Added Pin To Net: NetName=IO21 Pin=P14-4
+Added Pin To Net: NetName=IO20 Pin=P14-5
+Added Pin To Net: NetName=IO19 Pin=P14-6
+Added Pin To Net: NetName=IO18 Pin=P14-7
+Added Pin To Net: NetName=IO17 Pin=P14-8
+Added Pin To Net: NetName=IO16 Pin=P14-9
+Added Pin To Net: NetName=BIN2 Pin=P14-10
+Added Pin To Net: NetName=BIN1 Pin=P14-11
+Added Pin To Net: NetName=AIN2 Pin=P14-12
+Added Pin To Net: NetName=AIN1 Pin=P14-13
+Added Pin To Net: NetName=NSLEEP Pin=P14-14
+Added Pin To Net: NetName=NFAULT Pin=P14-15
+Added Pin To Net: NetName=BIN2_2 Pin=P15-1
+Added Pin To Net: NetName=BIN1_2 Pin=P15-2
+Added Pin To Net: NetName=AIN2_2 Pin=P15-3
+Added Pin To Net: NetName=AIN1_2 Pin=P15-4
+Added Pin To Net: NetName=NSLEEP_2 Pin=P15-5
+Added Pin To Net: NetName=NFAULT_2 Pin=P15-6
+Added Pin To Net: NetName=IO3 Pin=P15-7
+Added Pin To Net: NetName=IO2 Pin=P15-8
+Added Pin To Net: NetName=IO1 Pin=P15-9
+Added Pin To Net: NetName=IO0 Pin=P15-10
+Added Member To Class: ClassName=U_ESP32_S2_solo Member=Component P14 Header 15
+Added Member To Class: ClassName=U_ESP32_S2_solo Member=Component P15 Header 10
